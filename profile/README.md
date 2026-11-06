@@ -22,7 +22,7 @@
 
 ### O que a gente faz
 
-| | |
+| Serviço | O que muda para você |
 |---|---|
 | **Sistemas sob medida** | Software construído em volta do seu processo, com IA nos pontos em que ela economiza tempo de verdade. |
 | **Integrações** | ERP, CRM, loja, banco e WhatsApp trocando informação sem ninguém copiar e colar. |
